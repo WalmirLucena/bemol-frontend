@@ -16,7 +16,7 @@
 ### 💾 Clone o Repositório
 
 ```
-- git clone
+- git clone git@github.com:WalmirLucena/bemol-frontend.git
 ```
 
 ## Executando o projeto
